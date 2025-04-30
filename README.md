@@ -19,6 +19,17 @@ Se resalata las diferentes Imagenes de S.O que se deben instalar en cada una de 
 ## ✅ **Requerimientos**
 Para el correcto desarrollo se requiere la correcta instalacion de los siguientes servicios 
 * Docker – Contenedores de sistemas operativos
-    docker --version
 * Grafana – Visualización y monitoreo
 * Zabbix – Monitoreo de servicios y red
+        # Verifica Grafana
+        grafana-server -v
+        
+        # Verifica Prometheus
+        prometheus --version
+        
+        # Verifica Zabbix server
+        zabbix_server -V
+        
+        # Verifica Zabbix agent
+        zabbix_agentd -V
+
