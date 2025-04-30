@@ -17,4 +17,8 @@ Se resalata las diferentes Imagenes de S.O que se deben instalar en cada una de 
 6. **Operative Debian** https://www.debian.org/distrib/index.es.html
 
 ## ✅ **Requerimientos**
-    hola
+Para el correcto desarrollo se requiere la correcta instalacion de los siguientes servicios 
+* Docker – Contenedores de sistemas operativos
+    docker --version
+* Grafana – Visualización y monitoreo
+* Zabbix – Monitoreo de servicios y red
