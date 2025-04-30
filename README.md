@@ -5,7 +5,7 @@ Este proyecto tiene como objetivo el desarrollo de un entorno híbrido de prueba
 * Tres contenedores Docker, cada uno basado en una imagen de sistema operativo diferente.
 * Un contenedor adicional de monitoreo central, que integrará herramientas como Grafana y Zabbix para supervisar el estado de red, servicios y operaciones básicas de los sistemas.
 
-##💻**Sistemas Operativos** 
+## 💻**Sistemas Operativos** 
 Cada máquina y contenedor incluirá herramientas de análisis propias, simulando una infraestructura real de servidores virtualizados y contenerizados con monitoreo activo.
 Se resalata las diferentes Imagenes de S.O que se deben instalar en cada una de las imagenes 
 **Rocky Linux**<br/> 
@@ -21,5 +21,5 @@ Se resalata las diferentes Imagenes de S.O que se deben instalar en cada una de 
 **Operative Debian** <br/>
 6. https://www.debian.org/distrib/index.es.html
 
-##✅ **Requerimientos**
+## ✅ **Requerimientos**
 
