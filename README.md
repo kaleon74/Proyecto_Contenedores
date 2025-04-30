@@ -8,18 +8,13 @@ Este proyecto tiene como objetivo el desarrollo de un entorno híbrido de prueba
 ## 💻**Sistemas Operativos** 
 Cada máquina y contenedor incluirá herramientas de análisis propias, simulando una infraestructura real de servidores virtualizados y contenerizados con monitoreo activo.
 Se resalata las diferentes Imagenes de S.O que se deben instalar en cada una de las imagenes 
-**Rocky Linux**<br/> 
-1. https://rockylinux.org/es-ES/download
-**Manjaro Linux**<br/>
-2. https://r**ockylinux.org/es-ES/download
-**Arch Linux**<br/>
-3. https://archlinux.org/download/
-**Garuda Linux**<br/>
-4. https://garudalinux.org/editions
-**Alpine Linux** <br/>
-5. https://alpinelinux.org/downloads/
-**Operative Debian** <br/>
-6. https://www.debian.org/distrib/index.es.html
+
+1. **Rocky Linux**\ https://rockylinux.org/es-ES/download
+2. **Manjaro Linux**\ https://manjaro.org/products 
+3. **Arch Linux**\ https://archlinux.org/download/
+4. **Garuda Linux**\ https://garudalinux.org/editions 
+5. **Alpine Linux**\ https://alpinelinux.org/downloads/
+6. **Operative Debian**\ https://www.debian.org/distrib/index.es.html
 
 ## ✅ **Requerimientos**
 
